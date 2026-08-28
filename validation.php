@@ -23,7 +23,9 @@ return [
     'alpha_num' => ':Attribute mag alleen letters en nummers bevatten.',
     'any_of' => ':Attribute is ongeldig.',
     'array' => ':Attribute moet geselecteerde elementen bevatten.',
+    'array_keys' => ':Attribute mag alleen de volgende sleutels bevatten: :values.',
     'ascii' => ':Attribute mag alleen alfanumerieke tekens en symbolen van één byte bevatten.',
+    'base64' => ':Attribute moet een geldige Base64-string zijn.',
     'before' => ':Attribute moet een datum vóór :date zijn.',
     'before_or_equal' => ':Attribute moet een datum vóór of gelijk aan :date zijn.',
     'between' => [
